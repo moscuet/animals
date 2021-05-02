@@ -1,3 +1,16 @@
+# Learning Topics:
+
+1. React Hook : useState, useEffect
+2. React Routing: nested route-  useParams, useHistory,useRouteMatch, useLocation (all are imported from 'react-router-dom')
+```
+$ npm install react-router-dom
+```
+
+### Resource
+1. react routing: https://reactrouter.com/web/guides/quick-start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
